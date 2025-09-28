@@ -16,18 +16,38 @@
         },
         {
             "name":"baaban mi?",
+            "score":2,
+            "user":"admin",
+            "update":"28/09/2025",
+            "data":""
         },
         {
             "name":"testing",
+            "score":2,
+            "user":"admin",
+            "update":"28/09/2025",
+            "data":""
         },
         {
             "name":"community",
+            "score":2,
+            "user":"admin",
+            "update":"28/09/2025",
+            "data":""
         },
         {
             "name":"hayat's mm hvh",
+            "score":2,
+            "user":"admin",
+            "update":"28/09/2025",
+            "data":""
         },
         {
             "name":"defensive only",
+            "score":2,
+            "user":"admin",
+            "update":"28/09/2025",
+            "data":""
         },
     ]
 }

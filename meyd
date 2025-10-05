@@ -1,7 +1,7 @@
 {
   "users": [
-    {"a": "kxbuss", "b": true, "c": true, "d": false},
-    {"a": "365",    "b": true, "c": false, "d": true},
-    {"a": "jessf1", "b": true, "c": false, "d": false}
+    {"a": "kxbuss", "b": -1.8, "c" = 4},
+    {"a": "365",    "b": -1.8, "c" = 4},
+    {"a": "jessf1", "b": -1.8, "c" = 4}
   ]
 }
